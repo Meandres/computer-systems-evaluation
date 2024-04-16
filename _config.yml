@@ -27,7 +27,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   students that I advise.
 baseurl: "/computer-systems-evaluation" # the subpath of your site, e.g. /blog
 url: "https://ilya-meignan--masson.me" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Meandres
 
 # Build settings
 theme: minima
@@ -42,7 +41,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _posts/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

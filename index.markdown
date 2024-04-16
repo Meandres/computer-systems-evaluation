@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+# Experimental setup
+
+# Benchmarking done right
+
+# Data analysis
+
+# Vizualization
