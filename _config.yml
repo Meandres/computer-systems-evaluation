@@ -19,12 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: A collection of things about Computer Systems evaluation
-email: admin@doesntexist.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website contains a collection more or less organised of guidelines,
-  hints and good practices about computer systems evaluation that I have gathered
-  over the years. Its main purpose is to have a reference for myself and for the
-  students that I advise.
+  A collection of things about computer systems evaluation. For me mostly and for others (I hope).
 baseurl: "/computer-systems-evaluation" # the subpath of your site, e.g. /blog
 url: "https://ilya-meignan--masson.me" # the base hostname & protocol for your site, e.g. http://example.com
 
